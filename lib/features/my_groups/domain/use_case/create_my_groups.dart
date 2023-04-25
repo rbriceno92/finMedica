@@ -1,0 +1,18 @@
+import 'package:app/features/my_groups/domain/repository/my_groups_repository.dart';
+import 'package:app/util/failure.dart';
+import 'package:app/util/use_case.dart';
+import 'package:dartz/dartz.dart';
+
+import '../../data/models/create_my_groups_response.dart';
+
+class CreateMyGroupsUseCase extends UseCase<CreateMyGroupsResponse, String> {
+  final MyGroupsRepository repository;
+
+  CreateMyGroupsUseCase({required this.repository});
+
+  @override
+  Future<Either<ErrorGeneral, CreateMyGroupsResponse>> call(
+      String param) async {
+    return await repository.createMyGroups(param);
+  }
+}

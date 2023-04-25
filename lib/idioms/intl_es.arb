@@ -1,0 +1,426 @@
+{
+    "_locale": "es",
+    "appName": "FinMédica",
+    "signInText": "Inicio de sesión",
+    "emailText": "Correo electrónico",
+    "passwordText": "Contraseña",
+    "forgotPasswordQuestionText": "¿Olvidaste tú contraseña?",
+    "signInActionText": "Iniciar sesión",
+    "notUserYetText": "¿Aun no eres Usuario? ¡Regístrate!",
+    "userPasswordNotValidate": "Usuario o contraseña inválida",
+    "signUpAction": "Registrarme",
+    "wouldLike": "Me gustaría",
+    "slice1": "Medicina de alta calidad al alcance de tus manos",
+    "slice2": "Cuida de tu salud y la de tu familia",
+    "slice3": "Obten consultas rápido y fácil",
+    "forgotPassword": "Olvidé mi contraseña",
+    "typeEmailText": "Introduce el correo electrónico asociado a la cuenta",
+    "continueText": "Continuar",
+    "validationCode": "Código de validación",
+    "memberLimitMessage": "Llegaste al límite de usuarios\npara este grupo",
+    "codeMember": "Código de Usuario",
+    "emailSendedWithName": "Te enviamos un código a tu correo electrónico. Por favor, introdúcelo para verificar {email} - {name}",
+    "notEmailReceived": "¿No recibiste el correo electrónico?",
+    "restorePassword": "Reestablecer contraseña",
+    "establishNewPassword": "Establece tu nueva contraseña",
+    "newPassword": "Nueva contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "passwordShouldHave": "La contraseña debe tener:",
+    "atLeastEightCharacters": "No menos de 8 caracteres",
+    "atLeastOneMayus": "Al menos 1 mayúscula",
+    "atLeastOneMinus": "Al menos 1 minúscula",
+    "atLeastOneNumber": "Al menos 1 número",
+    "atLeastOneSpecialChar": "Al menos 1 caracter especial",
+    "lessThanTwentyFiveCharacters": "No más de 25 caracteres",
+    "signUp": "Registro",
+    "requiredText": "Requerido",
+    "name": "Nombre",
+    "secondName": "Segundo Nombre",
+    "lastName": "Apellido Paterno",
+    "mothersLastName": "Apellido Materno",
+    "genderBirth": "Género asignado al nacer",
+    "female": "Femenino",
+    "male": "Masculino",
+    "curp": "CURP",
+    "dateBirth": "Fecha de Nacimiento",
+    "phone": "Teléfono",
+    "emailDuplicate": "Este correo electrónico ya está siento utilizado",
+    "curpDisclaimer": "El CURP nos ayuda a identificarte como persona física",
+    "curpDuplicate": "Este CURP ya está registrado",
+    "setPassword": "Establecer contraseña",
+    "termConditions": "Términos y condiciones",
+    "declaresAccept": "Declaro que acepto los términos y condiciones",
+    "signUpSuccessTitle": "¡Registro Exitoso!",
+    "signUpSuccessBody": "Ya puedes iniciar sesión y comenzar a disfrutar de los beneficios de la plataforma",
+    "errorServerMessage": "Ha ocurrido un error",
+    "nextConsults": "Próximas consultas",
+    "seeAllConsults": "Ver todas",
+    "schedule": "Agendar",
+    "services": "Servicios",
+    "patient": "Patient",
+    "notConsultsYet": "Aún no tienes\nconsultas\nagendadas",
+    "scheduleConsultNow": "Agenda Consulta ahora",
+    "changePassword": "Cambio de contraseña",
+    "currentPassword": "Contraseña actual",
+    "changePasswordSuccess": "Su contraseña\nha sido reestablecida con éxito",
+    "codeForwardingMessage":"Un nuevo código ha sido enviado a su correo",
+    "updatePhoneNumberMessage": "Cambio realizado con éxito",
+    "contactMessage": "Gracias por su comentario",
+    "errorCurrentAndNewPasswordSame": "La contraseña actual y la nueva contraseña deben ser diferentes",
+    "startText": "Inicio",
+    "myProfile": "Mi Perfil",
+    "myGroup": "Mi Grupo",
+    "myGroups": "Mis Grupos",
+    "consults": "Consultas",
+    "myCoupons": "Mis Cupones",
+    "myBuysHistorial": "Mis Historial de Pagos",
+    "directory": "Directorio médico",
+    "methodsToPay": "Medios de Pago",
+    "myMethodsToPay": "Mis Métodos de Pago",
+    "doesNotHavePaymentMethod": "No Posee método de pago Asociado",
+    "invalidCode": "El código introducido es inválido",
+    "selectSpeciality": "Elegir especialidad",
+    "storeHeaderTitle": "Paquetes de consultas",
+    "storeHeaderBody": "Elige el paquete de consultas que más convenga para tí o tú grupo y disfruta de los beneficios",
+    "quantityConsult": "{quantity} Consultas FinMédica",
+    "@quantityConsult": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "storeBottomSheetTextP1": "Recarga tu cuponera y disfruta de ",
+    "storeBottomSheetTextP2": " prepagadas que puedes agendar para tí o tú grupo en el momento que prefieras, con cualquiera de nuestros especialistas.",
+    "storeInfo1P1": "Las consultas adquiridas se reflejarán en el total de la sección ",
+    "storeInfo1P2": ", asi como el historial de uso de los mismos.",
+    "storeInfo2": "Los paquetes no son reembolsables, los cupones sólo podrán ser canjeados por citas agendadas a través de la plataforma.",
+    "storeInfo3": "Los cupones tiene vigencia de 1 año a partir de la fecha de adquisición, pueden ser canjeados en cualquier momento dentro de ese período.",
+    "addPackage": "Añadir paquete",
+    "cartSummary": "Resumen de compra",
+    "cartItemInfoOne": "1 consulta prepagada para tí o tú grupo, con cualquiera de nuestras especialidades.",
+    "cartItemInfo": "{quantity} consultas prepagadas para tí o tú grupo, con cualquiera de nuestras especialidades.",
+    "@cartItemInfo": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "hasNoPackegesAdded": "No tienes\npaquetes añadidos",
+    "goBackStoreToAddPackeges": "Vuelve a servicios para añadir paquetes",
+    "deleteCartItem": "Paquete eliminado con éxito",
+    "continuePay": "Continuar pago",
+    "showNotifications": "Mostrar notificaciones",
+    "notificationsExplain": "Recibe notificaciones de esta app para Citas Canceladas, Citas Reprogramadas, Recordatorios.",
+    "notifications": "Notificaciones",
+    "privacy": "Privacidad",
+    "configurations": "Configuraciones",
+    "frecuentQuestions": "Preguntas Frecuentes",
+    "configuration": "Configuración",
+    "closeSesion": "Cerrar sesión",
+    "contact": "Contacto",
+    "wantToSignOut": "¿Estás seguro\nde que deseas cerrar sesión?",
+    "noText": "No",
+    "yesText": "Si",
+    "sessionStartAgainText": "Vuelve a iniciar sesión",
+    "sessionEndText": "Tú sesión ha caducado.",
+    "specialists": "Especialistas",
+    "saveChanges" : "Guardar cambios",
+    "helloUser": "¡Hola, {name}!",
+    "myProfileScreen": "Mi perfil",
+    "available": "Disponibles",
+    "availableOne": "Disponible",
+    "allText": "Todos",
+    "bonusText": "Bonos",
+    "packageText": "Paquetes",
+    "refundsText": "Reintegros",
+    "transferredText": "Transferidas",
+    "transferredTextSingular": "Transferida",
+    "couponValid": "Válido por un año",
+    "packageOf": "Paquete de {quantity}",
+    "@packageOf": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "packageOfConsults": "Paquete de {quantity} consulta{plural}.",
+    "@packageOfConsults": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            },
+            "plural": {
+                "type": "String",
+                "example": "s"
+            }
+        }
+    },
+    "bonusOfSeveralConsultsRefunds": "Bono de {quantity} consulta{plural} Reintegrada{plural},",
+        "@bonusOfSeveralConsultsRefunds": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "2"
+            },
+            "plural": {
+                "type": "String",
+                "example": "s"
+            }
+        }
+    },
+    "bonusValidOfConsults": "Bono válido por {quantity} consulta{plural},",
+    "@bonusValidOfConsults": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "2"
+            },
+            "plural": {
+                "type": "String",
+                "example": "s"
+            }
+        }
+    },
+    "bonusOfConsults": "Bono de {quantity} consulta{plural}",
+    "@bonusOfConsults": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "2"
+            },
+            "plural": {
+                "type": "String",
+                "example": "s"
+            }
+        }
+    },
+    "refundedCancellationOf": "Reintegrada{plural}, por cancelación a tiempo.",
+    "@refundedCancellationOf": {
+        "placeholders": {
+            "plural": {
+                "type": "String",
+                "example": "s"
+            }
+        }
+    },
+    "refundedCancellationLong": "por cancelación de consulta agendada dentro del márgen de tiempo estípulado.",
+    "availableForYouAndGroup": "disponibles para tí o tú grupo, con cualquiera de nuestras especialidades.",
+    "refundedSinglularText": "Reintegrada",
+    "transferredByText": "Transferida{plural} por {name}.",
+    "@transferredByText": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "Pedro"
+            },
+            "plural": {
+                "type": "String",
+                "example": "s"
+            }
+        }
+    },
+    "availableForYouAndGroup": "disponibles para tí o tú grupo, con cualquiera de nuestras especialidades.",
+    "transferredMessageAlert": "Transferida{plural}, {connector} otro usuario dentro de la plataforma.",
+    "@transferredMessageAlert": {
+        "placeholders": {
+            "plural": {
+                "type": "String",
+                "example": "s"
+            },
+            "connector": {
+                "type": "String",
+                "example": "por"
+            }
+        }
+    },
+    "transferredBy": "Transferido por",
+    "transferredTo": "Transferido a",
+    "refundedSinglularText": "Reintegrada",
+    "refundedPluralText": "Reintegradas",
+    "membershipText": "Membresía",
+    "membershipItemDescription": "{quantity} consulta{plural} de tù ",
+    "addText": "Agregar",
+    "trasnferText": "Transferir",
+    "trasnferCouponText": "Transferir cupón",
+    "addCoupon": "Agregar Cupón",
+    "couponCode": "Código del Cupón",
+    "insertCouponCode": "Ingresa el código del Cupón para poder redimir las consultas que ofrece.",
+    "invalidCode2": "El código introducido es inválido\nintenta de nuevo",
+    "redeemCoupon": "Redimir Cupón",
+    "daysText": "Días",
+    "consultScheduled":"Agendada",
+    "consultReprogramming":"Reagendada",
+    "consultRescheduleTitle": "Reagendar Consulta",
+    "consultCanceled":"Cancelada",
+    "consultCompleted":"Completada",
+    "consultExpired":"Expirada",
+    "consultAll": "Todas",
+    "bundleText": "Paquete",
+    "bundleDetails": "Detalle de Paquete",
+    "paymentMethod": "Método de Pago",
+    "purchaseDate": "Fecha de Compra",
+    "transactionDate": "Fecha de Transacción",
+    "amountPaid": "Monto Pagado",
+    "activationDate": "Fecha de activación",
+    "consultDetail":"Detalle de consulta",
+    "consult":"Consulta",
+    "toSchedule":"Reagendar",
+    "cancel":"Cancelar",
+    "messageOfCancelConsult": "Estás a punto de Cancelar esta consulta, ¿Quieres continuar?",
+    "doctor":"Doctor",
+    "speciality":"Especialidad",
+    "direction":"Dirección",
+    "createdDateBy":"Cita creada por",
+    "reCreatedDateBy":"Cita Reagendada por",
+    "motive":"Motivo",
+    "seeTermsAndConditions":"Ver términos y condiciones",
+    "patient": "Paciente",
+    "years":"años",
+    "reprogramming":"Reprogramación",
+    "cancellation":"Cancelación",
+    "rescheduledDate":"Fecha Reagendada",
+    "cancelledDate":"Fecha de Cancelación",
+    "date":"Fecha",
+    "dateScheduledBy":"Cita agendada por",
+    "dateCanceledBy":"Cita Cancelada por",
+    "dateRescheduledBy":"Cita Reagendada por",
+    "dateExpired":"Fecha de expiración",
+    "filterByName": "Filtrar por nombre",
+    "familyGroup": "Grupo Familiar",
+    "groupAdmin": "Administrador del grupo",
+    "groupMembers": "Miembros del Grupo ({quantity})",
+        "@groupMembers": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "maxMembers": "Max. 10",
+    "removeMemberMessage": "El miembro fue desvinculado exitosamente",
+    "notMembersYet": "No hay Miembros\nen este grupo aún",
+    "addNewExistingMember": "Añade un miembro nuevo o existente\ndentro de la plataforma",
+    "addExisting": "Añadir existente",
+    "addNew": "Añadir Nuevo",
+    "existingUser": "Usuario existente",
+    "searchExistingUser": "Inserte código de usuarios",
+    "noResultsForSearch": "No existen resultados\npara su búsqueda",
+    "noResultsForSearchGroups": "Añade un miembro nuevo o existente\ndentro de la plataforma",
+    "noResultsForSearchCode": "No se encontró\nusuario relacionado\npara este código",
+    "searchExistingUserDescription": "Añadir usuario por su código",
+    "newUser": "Usuario Nuevo",
+    "addNewMemberToGroup": "Añadir miembro al grupo",
+    "dontBelongToAnyGroupYet": "Aún no perteneces\na ningun grupo",
+    "hereCanCreateGroup": "Aquí podrás crear un grupo donde\nincluir a tus familiares para poder\nagendar citas en su nombre. También\npodrás ver los grupos a los que seas\nañadido.",
+    "createGroup": "Crear Grupo",
+    "activateDate" :"Fecha de Activación",
+    "consultNotApplied":"sin aplicar",
+    "tokensUsed":"Bonos Consumidos",
+    "tokensNotUsed":"Bonos sin consumir",
+    "confidentiality":"Confidencialidad",
+    "allConsultsPrivate":"Hacer privadas todas mis\nconsultas",
+    "confidentialityDescription":"Al activar solo tú podrás ver las consultas agendadas para tí, ningún administrador de grupo u otro usuario podrá ver el detalle de las mismas.\nSi deseas darle permiso solo a algunas de las consultas, puedes cambiar la privacidad directamente a cada consulta individualmente.",
+    "consultPrivateByPatient":"Esta consulta\nha sido marcada como privada\npor el Paciente",
+    "myConsults":"Mis Consultas",
+    "newMember": "Nuevo Miembro",
+    "memberProfile": "Perfil de Miembro",
+    "scheduleAppointmentToUser":"Para mi",
+    "scheduleAppointmentToGroup":"Alguien de mi grupo",
+    "dialogScheduleAppointmentTitle":"¿Para quién estás\nagendando consulta?",
+    "selectDateToConsult":"Elige entre las fechas disponibles para tu consulta",
+    "scheduleAppointment":"Agendar Consulta",
+    "selectHour":"Elija la hora",
+    "selectDate": "Elija la fecha",
+    "contactUs":"Contáctenos",
+    "sendUsYourComments": "Envíanos tus comentarios",
+    "subject": "Asunto",
+    "yourMessage": "Tu mensaje",    
+    "maxCharacters": "Max. caracteres {quantity}.",
+    "@maxCharacters": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "charactersRemaining": "Caracteres restantes: {quantity}",
+    "@charactersRemaining": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "send": "Enviar",
+    "patientUserInfoScheduleText":"{name} - {gender} - {age} años",
+    "patientGroupInfoScheduleText":"{name} \n{gender} - {age} años",
+    "makeThisSchedulePrivate":"Hacer que esta cita sea privada",
+    "termsSchedule":"Confirma que son  correctos los datos de la consulta agendada para continuar",
+    "titleDialogScheduleAppointment":"Tome en cuenta que",
+    "descriptionDialogScheduleAppointmentOne":"Si usted cancela la consulta con un día o menos de anticipación, el cobro de la consulta sera efectivo de igual forma.",
+    "descriptionDialogScheduleAppointmentTwo":"Usted puede reagendar su consulta, y el pago realizado sera aplicado a esta nueva cita.",
+    "descriptionDialogScheduleAppointmentThree":"Usted puede reagendar su consulta hasta XX veces, si supera esta cantidad la cita sera tomada como perdida y el pago realizado sera efectivo.",
+    "groupConfiguration": "Configuración grupo",
+    "groupAdministration": "Administración de grupo",
+    "transferGroupManagement": "Transferir Administración del grupo",
+    "warningRemoveMemberGroup1": "Estás a punto de desvincular al usuario ",
+    "warningRemoveMemberGroup2": " de este grupo, estás seguro?",
+    "warningTransferGroupManagement": "Estas a punto de transferir\nla administración del grupo a\n{member}.\n¿Quieres continuar?",
+    "@warningTransferGroupManagement": {
+        "placeholders": {
+            "member": {
+                "type": "String",
+                "example": "Pedro"
+            }
+        }
+    },
+    "warningUnlinkFromGroup": "Estás a punto de desvincularte de este grupo, estás seguro?",
+    "paymentsHistory": "Historial de Transacciones",
+    "inviteAnewMember": "La solicitud ha sido enviada\ncon éxito. El usuario añadido\nrecibirá un correo para aceptar\nla solicitud",
+    "paymentHistoryEmpty": "Aún no existen transacciones en tu cuenta para mostrar",
+    "completedPlural": "Completadas",
+    "rejected": "Rechazadas",
+    "rejectedPayment": "Pago Fallido",
+    "transactionDetail": "Detalle de Transacción",
+    "paymentMethodFailed":"Falló el método de pago",
+    "paymentMethodFailedMessage":"el método de pago fue rechazado por el sistema.",
+    "noConsultsAvailable": "No tienes consultas disponibles",
+    "canGoStoreToAdd":"Puedes ir a servicios y añadir nuevos bonos o paquetes a tu cuenta",
+    "payThisConsult": "Pagar esta consulta",
+    "scheduleWithoutPrepay":"Agendar sin prepagar",
+    "payConsult": "Pagar Consulta",
+    "consultScheduledSuccessfully": "¡Su consulta ha sido\nagendada con éxito!",
+    "payConsultonTheSpot":"El pago de la consulta será realizado directamente en el lugar.",
+    "receiveConfirmationEmail": "En un momento recibirás tú confirmación por Correo eléctrónico",
+    "homepage": "Página Principal",
+    "accept":"Aceptar",
+    "emptyPaymentMethod": "No Posee método de pago Asociado",
+    "seePaymentHistory": "Ver historial de Pagos",
+    "packageConditions":"Condiciones del paquete",
+    "close": "Cerrar",
+    "deletePaymentMethodMessageP1": "Estas a punto de eliminar el método de pago terminado en",
+    "deletePaymentMethodMessageP2": "estas seguro de continuar?",
+    "addPaymentMethod": "Añadir Métodos de Pago",
+    "add": "Añadir",
+    "News":"Nuevas",
+    "Views":"Vistas",
+    "selectAsRead":"Marcar todas como leídas",
+    "oldNotifications":"Antiguas",
+    "delete":"Borrar",
+    "emptyNotifications":"No tienes\nNotificaciones",
+    "emptyNotificationsTwo":"Aun no tienes notificaciones.",
+    "areAboutToTransfer":"Estás a punto de transferir un cupón a",
+    "wantToContinue":"¿Quieres continuar?",
+    "defaulExpiredtReasonTitle": "No se Realiza Reembolso",
+    "defaulExpiredDReasonDesc": "Debido a que la consulta no fue completada o cancelada dentro de los términos aplicables."
+}

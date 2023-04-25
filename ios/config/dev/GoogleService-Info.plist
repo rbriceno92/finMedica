@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>733341405236-ssemn7sakdlm8mq8c5mmk7iv7k5v3j96.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.733341405236-ssemn7sakdlm8mq8c5mmk7iv7k5v3j96</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6wxexEHLZdViT7rLpyKYq1vSKHBXgTX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>733341405236</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.com.finmedica.dev</string>
+	<key>PROJECT_ID</key>
+	<string>finmedica-850e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finmedica-850e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:733341405236:ios:38a909d9453944019a3a61</string>
+</dict>
+</plist>

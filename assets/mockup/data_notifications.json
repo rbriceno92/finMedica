@@ -1,0 +1,43 @@
+[
+  {
+  "type": "CANCELED",
+  "patient": "Yonder Rosales",
+  "description": "Se ha cancelado la consulta \nde Cardiología para el día 07 Nov 2023",
+  "id": "46773221"
+
+  },
+  {
+    "type": "SCHEDULE",
+    "patient": "Yonder Rosales",
+    "description": "Existe una cita de Oftalmología para el día 05 Nov 2023 a las 09:00 horas",
+    "id": "9432472"
+
+  },
+  {
+    "type": "REINTEGRED",
+    "patient": "Yonder Rosales",
+    "description": "Se ha reintegrado la consulta cancelada del día 05 Nov 2023, especialidad cardiología",
+    "id": "23531"
+
+  },
+  {
+    "type": "RESCHEDULE",
+    "patient": "Yonder Rosales",
+    "description": "Se reagendó la consulta el día 05 Nov 2023 , especialidad dermatología para la fecha 23 Nov 2023 a las 15:00 horas.",
+    "id": "342667"
+
+  },
+  {
+    "type": "GROUP",
+    "patient": "Yonder Rosales",
+    "description": "Fuiste agregado al grupo de María Fernández",
+    "id": "2353134"
+
+  },
+  {
+    "type": "GROUP",
+    "patient": "Yonder Rosales",
+    "description": "Carlos Fernandez \nsalió de grupo",
+    "id": "767476"
+  }
+]

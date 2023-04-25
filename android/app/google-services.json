@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "733341405236",
+    "project_id": "finmedica-850e0",
+    "storage_bucket": "finmedica-850e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733341405236:android:bb17adfc367d77509a3a61",
+        "android_client_info": {
+          "package_name": "mx.com.finmedica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdxmJbVvBnzzJ2-8bUXkyhtQQ457XNS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733341405236-77uv8srhnpgb17m9og8cfh9r0jm3dte5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.com.finmedica"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733341405236:android:2426173c8b41e36d9a3a61",
+        "android_client_info": {
+          "package_name": "mx.com.finmedica.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdxmJbVvBnzzJ2-8bUXkyhtQQ457XNS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733341405236-77uv8srhnpgb17m9og8cfh9r0jm3dte5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.com.finmedica"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733341405236:android:265b22ed1bc5feb59a3a61",
+        "android_client_info": {
+          "package_name": "mx.com.finmedica.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdxmJbVvBnzzJ2-8bUXkyhtQQ457XNS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733341405236-77uv8srhnpgb17m9og8cfh9r0jm3dte5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.com.finmedica"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733341405236:android:a2765912a6f4e75e9a3a61",
+        "android_client_info": {
+          "package_name": "mx.com.finmedica.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdxmJbVvBnzzJ2-8bUXkyhtQQ457XNS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733341405236-0081bsu39p622622h16rtebgvtuad0qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733341405236-77uv8srhnpgb17m9og8cfh9r0jm3dte5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.com.finmedica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
